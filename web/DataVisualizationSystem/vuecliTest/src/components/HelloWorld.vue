@@ -9,7 +9,7 @@
     <div :class="classObject"></div>
     <div :style="styleObject">123</div>
     <div v-if="isActive == true">
-      Now you see me
+      Now you see me too
     </div>
     <div v-else>
       Now you don't
